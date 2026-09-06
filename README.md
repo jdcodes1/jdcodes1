@@ -1,7 +1,5 @@
 # Joey Dafforn
 
-UI engineer focused on performance-sensitive interfaces for constrained hardware. React/TypeScript
-
 Currently at **Latitude AI** (Ford subsidiary- formerly **Argo AI**), previously **Gopuff** and **Sonos**.
 
 ## What I build
