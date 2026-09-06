@@ -1,6 +1,6 @@
 # Joey Dafforn
 
-Currently at **Latitude AI** (Ford subsidiary- formerly **Argo AI**), previously **Gopuff** and **Sonos**.
+Currently at **Latitude AI**, previously **Gopuff** and **Sonos**.
 
 ## What I build
 
